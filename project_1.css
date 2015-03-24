@@ -1,0 +1,18 @@
+.title, .notes {
+    text-align: center;
+}
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+
+h1,h2,h3 {
+	color: #0033CC;
+}
+
+h1{
+border: 1px solid black;
+	background-color: #CCFFFF;
+}
